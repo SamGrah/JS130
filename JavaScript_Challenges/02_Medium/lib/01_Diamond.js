@@ -1,42 +1,4 @@
 /* eslint-disable max-lines-per-function */
-/*  UNDERSTANDING THE  PROBLEM
---------------------------------------
-INPUTS ==>
-
-OUTPUTS ==>
-
-CLARIFYTING QUESTIONS ==>
-
-EXPLICT RULES ==>
-
-IMPLICIT RULES ==>
-
-MENTAL MODEL ==>
-
-
-    EXAMPLES / TEST CASES
---------------------------------------
-EXAMPLES ==>
-
-RULESET ==>
-
-INVALID INPUT ==>
-
-EDGE CASES ==>
-
-
-    DATA STRUCTURES
---------------------------------------
-INPUTS ==>
-
-RULESET ==>
-
-
-    ALGORITHM
---------------------------------------
-
-*/
-
 class Diamond {
   static makeDiamond(char) {
     let charDifference = char.charCodeAt(0) - 'A'.charCodeAt(0);
