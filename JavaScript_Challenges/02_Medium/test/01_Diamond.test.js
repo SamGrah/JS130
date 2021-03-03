@@ -1,0 +1,38 @@
+/* eslint-disable max-lines-per-function */
+const Diamond = require('../lib/01_Diamond');
+
+describe("Diamond", () => {
+  test("letter a", () => {
+    let answer = Diamond.makeDiamond('A');
+    expect(answer).toBe("A\n");
+  });
+
+  test("letter b", () => {
+    let answer = Diamond.makeDiamond('B');
+    expect(answer).toBe(" A \nB B\n A \n");
+  });
+
+  test("letter c", () => {
+    let answer = Diamond.makeDiamond('C');
+    let expected = "  A  \n" +
+                   " B B \n" +
+                   "C   C\n" +
+                   " B B \n" +
+                   "  A  \n";
+    expect(answer).toBe(expected);
+  });
+
+  test("letter e", () => {
+    let answer = Diamond.makeDiamond('E');
+    let expected = "    A    \n" + // pos = 0
+                   "   B B   \n" + // pos = 1
+                   "  C   C  \n" + // pos = 2
+                   " D     D \n" + // pos = 3
+                   "E       E\n" +
+                   " D     D \n" +
+                   "  C   C  \n" +
+                   "   B B   \n" +
+                   "    A    \n";
+    expect(answer).toBe(expected);
+  });
+});
