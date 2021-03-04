@@ -1,37 +1,42 @@
-/*  UNDERSTANDING THE  PROBLEM
---------------------------------------
-INPUTS ==>
+class CustomSet {
+  constructor(items) {
+    this.items = items || [];
+  }
 
-OUTPUTS ==>
+  isEmpty() { return !this.items.length; }
 
-CLARIFYTING QUESTIONS ==>
+  contains(value) { return this.items.includes(value); }
 
-EXPLICT RULES ==>
+  isSubset(comparisonSet) {
+    return this.items.every(value => comparisonSet.contains(value));
+  }
 
-IMPLICIT RULES ==>
+  isDisjoint(comparisonSet) {
+    return this.items.every(value => !comparisonSet.contains(value));
+  }
 
-MENTAL MODEL ==>
+  isSame(comparisonSet) {
+    return this.isSubset(comparisonSet) && comparisonSet.isSubset(this);
+  }
 
+  add(value) {
+    if (!this.contains(value)) this.items.push(value);
+    return this;
+  }
 
-    EXAMPLES / TEST CASES
---------------------------------------
-EXAMPLES ==>
+  intersection(comparisonSet) {
+    let commonItems = this.items.filter(value => comparisonSet.contains(value));
+    return new CustomSet(commonItems);
+  }
 
-RULESET ==>
+  difference(comparisonSet) {
+    let uniques = this.items.filter(value => !comparisonSet.contains(value));
+    return new CustomSet(uniques);
+  }
 
-INVALID INPUT ==>
+  union(additionalSet) {
+    return new CustomSet(this.items.concat(additionalSet.items));
+  }
+}
 
-EDGE CASES ==>
-
-
-    DATA STRUCTURES
---------------------------------------
-INPUTS ==>
-
-RULESET ==>
-
-
-    ALGORITHM
---------------------------------------
-
-*/
+module.exports = CustomSet;

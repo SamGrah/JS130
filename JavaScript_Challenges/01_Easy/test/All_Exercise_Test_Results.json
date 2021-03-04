@@ -1,0 +1,1022 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 10,
+  "numPassedTests": 111,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 10,
+  "numTotalTests": 111,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1614824949033,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of one",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of one"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of one again",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of one again"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of two",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of two"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test other slices of two",
+          "location": null,
+          "status": "passed",
+          "title": "test other slices of two"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of two again",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of two again"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of three",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of three"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of three again",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of three again"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test other slices of three",
+          "location": null,
+          "status": "passed",
+          "title": "test other slices of three"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of four",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of four"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of four again",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of four again"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of five",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of five"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slices of five again",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slices of five again"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test simple slice that blows up",
+          "location": null,
+          "status": "passed",
+          "title": "test simple slice that blows up"
+        },
+        {
+          "ancestorTitles": ["Series"],
+          "failureMessages": [],
+          "fullName": "Series test more complicated slice that blows up",
+          "location": null,
+          "status": "passed",
+          "title": "test more complicated slice that blows up"
+        }
+      ],
+      "endTime": 1614824952138,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/10_Series.test.js",
+      "startTime": 1614824950592,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song first verse",
+          "location": null,
+          "status": "passed",
+          "title": "first verse"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song another verse",
+          "location": null,
+          "status": "passed",
+          "title": "another verse"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song 2 bottles verse",
+          "location": null,
+          "status": "passed",
+          "title": "2 bottles verse"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song 1 bottle verse",
+          "location": null,
+          "status": "passed",
+          "title": "1 bottle verse"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song no bottles verse",
+          "location": null,
+          "status": "passed",
+          "title": "no bottles verse"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song a couple of verses",
+          "location": null,
+          "status": "passed",
+          "title": "a couple of verses"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song a few verses",
+          "location": null,
+          "status": "passed",
+          "title": "a few verses"
+        },
+        {
+          "ancestorTitles": ["Beer Song"],
+          "failureMessages": [],
+          "fullName": "Beer Song the whole song",
+          "location": null,
+          "status": "passed",
+          "title": "the whole song"
+        }
+      ],
+      "endTime": 1614824952263,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/09_Beer_Song.test.js",
+      "startTime": 1614824950775,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle equilateral triangles have equal sides",
+          "location": null,
+          "status": "passed",
+          "title": "equilateral triangles have equal sides"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle larger equilateral triangles also have equal sides",
+          "location": null,
+          "status": "passed",
+          "title": "larger equilateral triangles also have equal sides"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle isosceles triangles have last two sides equal",
+          "location": null,
+          "status": "passed",
+          "title": "isosceles triangles have last two sides equal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle isosceles trianges have first and last sides equal",
+          "location": null,
+          "status": "passed",
+          "title": "isosceles trianges have first and last sides equal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle isosceles triangles have two first sides equal",
+          "location": null,
+          "status": "passed",
+          "title": "isosceles triangles have two first sides equal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle isosceles triangles have in fact exactly two sides equal",
+          "location": null,
+          "status": "passed",
+          "title": "isosceles triangles have in fact exactly two sides equal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle scalene triangles have no equal sides",
+          "location": null,
+          "status": "passed",
+          "title": "scalene triangles have no equal sides"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle scalene triangles have no equal sides at a larger scale too",
+          "location": null,
+          "status": "passed",
+          "title": "scalene triangles have no equal sides at a larger scale too"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle scalene triangles have no equal sides in descending order either",
+          "location": null,
+          "status": "passed",
+          "title": "scalene triangles have no equal sides in descending order either"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle very small triangles are legal",
+          "location": null,
+          "status": "passed",
+          "title": "very small triangles are legal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle test triangles with no size are illegal",
+          "location": null,
+          "status": "passed",
+          "title": "test triangles with no size are illegal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle triangles with negative sides are illegal",
+          "location": null,
+          "status": "passed",
+          "title": "triangles with negative sides are illegal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle triangles violating triangle inequality are illegal",
+          "location": null,
+          "status": "passed",
+          "title": "triangles violating triangle inequality are illegal"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle triangles violating triangle inequality are illegal 2",
+          "location": null,
+          "status": "passed",
+          "title": "triangles violating triangle inequality are illegal 2"
+        },
+        {
+          "ancestorTitles": ["Triangle"],
+          "failureMessages": [],
+          "fullName": "Triangle triangles violating triangle inequality are illegal 3",
+          "location": null,
+          "status": "passed",
+          "title": "triangles violating triangle inequality are illegal 3"
+        }
+      ],
+      "endTime": 1614824952515,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/01_Triangles.test.js",
+      "startTime": 1614824950997,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram No matches returns empty array",
+          "location": null,
+          "status": "passed",
+          "title": "No matches returns empty array"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Detect simple anagram",
+          "location": null,
+          "status": "passed",
+          "title": "Detect simple anagram"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Detect multiple anagrams",
+          "location": null,
+          "status": "passed",
+          "title": "Detect multiple anagrams"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Do not confuse different duplicates",
+          "location": null,
+          "status": "passed",
+          "title": "Do not confuse different duplicates"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Identical word is not anagram",
+          "location": null,
+          "status": "passed",
+          "title": "Identical word is not anagram"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Eliminate anagrams with same checksum",
+          "location": null,
+          "status": "passed",
+          "title": "Eliminate anagrams with same checksum"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Eliminate anagram subsets",
+          "location": null,
+          "status": "passed",
+          "title": "Eliminate anagram subsets"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Detect anagram",
+          "location": null,
+          "status": "passed",
+          "title": "Detect anagram"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Multiple anagrams",
+          "location": null,
+          "status": "passed",
+          "title": "Multiple anagrams"
+        },
+        {
+          "ancestorTitles": ["Anagram"],
+          "failureMessages": [],
+          "fullName": "Anagram Anagrams are case-insensitive",
+          "location": null,
+          "status": "passed",
+          "title": "Anagrams are case-insensitive"
+        }
+      ],
+      "endTime": 1614824952753,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/04_Anagrams.test.js",
+      "startTime": 1614824952295,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 1",
+          "location": null,
+          "status": "passed",
+          "title": "1"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 2",
+          "location": null,
+          "status": "passed",
+          "title": "2"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 3",
+          "location": null,
+          "status": "passed",
+          "title": "3"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 4",
+          "location": null,
+          "status": "passed",
+          "title": "4"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 5",
+          "location": null,
+          "status": "passed",
+          "title": "5"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 6",
+          "location": null,
+          "status": "passed",
+          "title": "6"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 9",
+          "location": null,
+          "status": "passed",
+          "title": "9"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 27",
+          "location": null,
+          "status": "passed",
+          "title": "27"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 48",
+          "location": null,
+          "status": "passed",
+          "title": "48"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 59",
+          "location": null,
+          "status": "passed",
+          "title": "59"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 93",
+          "location": null,
+          "status": "passed",
+          "title": "93"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 141",
+          "location": null,
+          "status": "passed",
+          "title": "141"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 163",
+          "location": null,
+          "status": "passed",
+          "title": "163"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 402",
+          "location": null,
+          "status": "passed",
+          "title": "402"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 575",
+          "location": null,
+          "status": "passed",
+          "title": "575"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 911",
+          "location": null,
+          "status": "passed",
+          "title": "911"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 1024",
+          "location": null,
+          "status": "passed",
+          "title": "1024"
+        },
+        {
+          "ancestorTitles": ["RomanNumeral"],
+          "failureMessages": [],
+          "fullName": "RomanNumeral 3000",
+          "location": null,
+          "status": "passed",
+          "title": "3000"
+        }
+      ],
+      "endTime": 1614824952954,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/03_Roman_Numberal.test.js",
+      "startTime": 1614824952334,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 1 is decimal 1",
+          "location": null,
+          "status": "passed",
+          "title": "octal 1 is decimal 1"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 10 is decimal 8",
+          "location": null,
+          "status": "passed",
+          "title": "octal 10 is decimal 8"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 17 is decimal 15",
+          "location": null,
+          "status": "passed",
+          "title": "octal 17 is decimal 15"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 11 is decimal 9",
+          "location": null,
+          "status": "passed",
+          "title": "octal 11 is decimal 9"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 130 is decimal 88",
+          "location": null,
+          "status": "passed",
+          "title": "octal 130 is decimal 88"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 2047 is decimal 1063",
+          "location": null,
+          "status": "passed",
+          "title": "octal 2047 is decimal 1063"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 7777 is decimal 4095",
+          "location": null,
+          "status": "passed",
+          "title": "octal 7777 is decimal 4095"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal octal 1234567 is decimal 342391",
+          "location": null,
+          "status": "passed",
+          "title": "octal 1234567 is decimal 342391"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal invalid octal is decimal 0",
+          "location": null,
+          "status": "passed",
+          "title": "invalid octal is decimal 0"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal 8 is seeen as invalid and returns 0",
+          "location": null,
+          "status": "passed",
+          "title": "8 is seeen as invalid and returns 0"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal 9 is seeen as invalid and returns 0",
+          "location": null,
+          "status": "passed",
+          "title": "9 is seeen as invalid and returns 0"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal 6789 is seeen as invalid and returns 0",
+          "location": null,
+          "status": "passed",
+          "title": "6789 is seeen as invalid and returns 0"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal abc1z is seen as invalid and returns 0",
+          "location": null,
+          "status": "passed",
+          "title": "abc1z is seen as invalid and returns 0"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal valid octal formatted string 011 is decimal 9",
+          "location": null,
+          "status": "passed",
+          "title": "valid octal formatted string 011 is decimal 9"
+        },
+        {
+          "ancestorTitles": ["Octal"],
+          "failureMessages": [],
+          "fullName": "Octal 234abc is seen as invalid and returns 0",
+          "location": null,
+          "status": "passed",
+          "title": "234abc is seen as invalid and returns 0"
+        }
+      ],
+      "endTime": 1614824953094,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/07_Octal.test.js",
+      "startTime": 1614824952665,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA no difference between empty strands",
+          "location": null,
+          "status": "passed",
+          "title": "no difference between empty strands"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA no difference between identical strands",
+          "location": null,
+          "status": "passed",
+          "title": "no difference between identical strands"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA complete hamming distance in small strand",
+          "location": null,
+          "status": "passed",
+          "title": "complete hamming distance in small strand"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA hamming distance in off by one strand",
+          "location": null,
+          "status": "passed",
+          "title": "hamming distance in off by one strand"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA small hamming distance in middle somewhere",
+          "location": null,
+          "status": "passed",
+          "title": "small hamming distance in middle somewhere"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA larger distance",
+          "location": null,
+          "status": "passed",
+          "title": "larger distance"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA ignores extra length on other strand when longer",
+          "location": null,
+          "status": "passed",
+          "title": "ignores extra length on other strand when longer"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA ignores extra length on original strand when longer",
+          "location": null,
+          "status": "passed",
+          "title": "ignores extra length on original strand when longer"
+        },
+        {
+          "ancestorTitles": ["DNA"],
+          "failureMessages": [],
+          "fullName": "DNA does not actually shorten original strand",
+          "location": null,
+          "status": "passed",
+          "title": "does not actually shorten original strand"
+        }
+      ],
+      "endTime": 1614824953204,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/02_Point_Mutations.test.js",
+      "startTime": 1614824952805,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble empty word scores zero",
+          "location": null,
+          "status": "passed",
+          "title": "empty word scores zero"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble whitespace scores zero",
+          "location": null,
+          "status": "passed",
+          "title": "whitespace scores zero"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble nil scores zero",
+          "location": null,
+          "status": "passed",
+          "title": "nil scores zero"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble scores very short word",
+          "location": null,
+          "status": "passed",
+          "title": "scores very short word"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble scores other very short word",
+          "location": null,
+          "status": "passed",
+          "title": "scores other very short word"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble simple word scores the number of letters",
+          "location": null,
+          "status": "passed",
+          "title": "simple word scores the number of letters"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble complicated words score more",
+          "location": null,
+          "status": "passed",
+          "title": "complicated words score more"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble scores are case-insensitive",
+          "location": null,
+          "status": "passed",
+          "title": "scores are case-insensitive"
+        },
+        {
+          "ancestorTitles": ["Scrabble"],
+          "failureMessages": [],
+          "fullName": "Scrabble convenient scoring",
+          "location": null,
+          "status": "passed",
+          "title": "convenient scoring"
+        }
+      ],
+      "endTime": 1614824953445,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/05_Scrabble_Score.test.js",
+      "startTime": 1614824953115,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples sum to one",
+          "location": null,
+          "status": "passed",
+          "title": "sum to one"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples sum to three",
+          "location": null,
+          "status": "passed",
+          "title": "sum to three"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples sum to ten",
+          "location": null,
+          "status": "passed",
+          "title": "sum to ten"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples sum to one hundred",
+          "location": null,
+          "status": "passed",
+          "title": "sum to one hundred"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples sum to one thousand",
+          "location": null,
+          "status": "passed",
+          "title": "sum to one thousand"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples configurable 7 13 17 to 20",
+          "location": null,
+          "status": "passed",
+          "title": "configurable 7 13 17 to 20"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples configurable 4 6 to 15",
+          "location": null,
+          "status": "passed",
+          "title": "configurable 4 6 to 15"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples configurable 5 6 8 to 150",
+          "location": null,
+          "status": "passed",
+          "title": "configurable 5 6 8 to 150"
+        },
+        {
+          "ancestorTitles": ["sum of multiples"],
+          "failureMessages": [],
+          "fullName": "sum of multiples configurable 43 47 to 10,000",
+          "location": null,
+          "status": "passed",
+          "title": "configurable 43 47 to 10,000"
+        }
+      ],
+      "endTime": 1614824953466,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/08_Sum_of_Multiples.test.js",
+      "startTime": 1614824953029,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["PerfectNumber"],
+          "failureMessages": [],
+          "fullName": "PerfectNumber negative raises error",
+          "location": null,
+          "status": "passed",
+          "title": "negative raises error"
+        },
+        {
+          "ancestorTitles": ["PerfectNumber"],
+          "failureMessages": [],
+          "fullName": "PerfectNumber classify deficient",
+          "location": null,
+          "status": "passed",
+          "title": "classify deficient"
+        },
+        {
+          "ancestorTitles": ["PerfectNumber"],
+          "failureMessages": [],
+          "fullName": "PerfectNumber classify perfect",
+          "location": null,
+          "status": "passed",
+          "title": "classify perfect"
+        },
+        {
+          "ancestorTitles": ["PerfectNumber"],
+          "failureMessages": [],
+          "fullName": "PerfectNumber classify abundant",
+          "location": null,
+          "status": "passed",
+          "title": "classify abundant"
+        }
+      ],
+      "endTime": 1614824953554,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/01_Easy/test/06_Perfect_Number.test.js",
+      "startTime": 1614824953298,
+      "status": "passed",
+      "summary": ""
+    }
+  ],
+  "wasInterrupted": false
+}

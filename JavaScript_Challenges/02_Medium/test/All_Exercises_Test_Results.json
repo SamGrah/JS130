@@ -1,0 +1,1301 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 6,
+  "numPassedTests": 137,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 6,
+  "numTotalTests": 137,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1614824405741,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock on the hour",
+          "location": null,
+          "status": "passed",
+          "title": "on the hour"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock past the hour",
+          "location": null,
+          "status": "passed",
+          "title": "past the hour"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock add a few minutes",
+          "location": null,
+          "status": "passed",
+          "title": "add a few minutes"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock subtract fifty minutes",
+          "location": null,
+          "status": "passed",
+          "title": "subtract fifty minutes"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock add over an hour",
+          "location": null,
+          "status": "passed",
+          "title": "add over an hour"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock wrap around at midnight",
+          "location": null,
+          "status": "passed",
+          "title": "wrap around at midnight"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock add more than a day",
+          "location": null,
+          "status": "passed",
+          "title": "add more than a day"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock subtract a few minutes",
+          "location": null,
+          "status": "passed",
+          "title": "subtract a few minutes"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock subtract minutes",
+          "location": null,
+          "status": "passed",
+          "title": "subtract minutes"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock equivalent clocks",
+          "location": null,
+          "status": "passed",
+          "title": "equivalent clocks"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock wrap around at negative midnight",
+          "location": null,
+          "status": "passed",
+          "title": "wrap around at negative midnight"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock subtract more than a day",
+          "location": null,
+          "status": "passed",
+          "title": "subtract more than a day"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock inequivalent clocks",
+          "location": null,
+          "status": "passed",
+          "title": "inequivalent clocks"
+        },
+        {
+          "ancestorTitles": ["Clock"],
+          "failureMessages": [],
+          "fullName": "Clock wrap around backwards",
+          "location": null,
+          "status": "passed",
+          "title": "wrap around backwards"
+        }
+      ],
+      "endTime": 1614824408410,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/03_Clock.test.js",
+      "startTime": 1614824407546,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Diamond"],
+          "failureMessages": [],
+          "fullName": "Diamond letter a",
+          "location": null,
+          "status": "passed",
+          "title": "letter a"
+        },
+        {
+          "ancestorTitles": ["Diamond"],
+          "failureMessages": [],
+          "fullName": "Diamond letter b",
+          "location": null,
+          "status": "passed",
+          "title": "letter b"
+        },
+        {
+          "ancestorTitles": ["Diamond"],
+          "failureMessages": [],
+          "fullName": "Diamond letter c",
+          "location": null,
+          "status": "passed",
+          "title": "letter c"
+        },
+        {
+          "ancestorTitles": ["Diamond"],
+          "failureMessages": [],
+          "fullName": "Diamond letter e",
+          "location": null,
+          "status": "passed",
+          "title": "letter e"
+        }
+      ],
+      "endTime": 1614824408700,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/01_Diamond.test.js",
+      "startTime": 1614824408467,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List element datum",
+          "location": null,
+          "status": "passed",
+          "title": "element datum"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List element tail",
+          "location": null,
+          "status": "passed",
+          "title": "element tail"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List element next default",
+          "location": null,
+          "status": "passed",
+          "title": "element next default"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List element next initialization",
+          "location": null,
+          "status": "passed",
+          "title": "element next initialization"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List empty list size",
+          "location": null,
+          "status": "passed",
+          "title": "empty list size"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List empty list empty",
+          "location": null,
+          "status": "passed",
+          "title": "empty list empty"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List pushing element on list",
+          "location": null,
+          "status": "passed",
+          "title": "pushing element on list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List empty list 1 element",
+          "location": null,
+          "status": "passed",
+          "title": "empty list 1 element"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List peeking at list",
+          "location": null,
+          "status": "passed",
+          "title": "peeking at list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List peeking at empty list",
+          "location": null,
+          "status": "passed",
+          "title": "peeking at empty list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List access head element",
+          "location": null,
+          "status": "passed",
+          "title": "access head element"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List items are stacked",
+          "location": null,
+          "status": "passed",
+          "title": "items are stacked"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List push 10 items",
+          "location": null,
+          "status": "passed",
+          "title": "push 10 items"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List pop one item",
+          "location": null,
+          "status": "passed",
+          "title": "pop one item"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List popping frenzy",
+          "location": null,
+          "status": "passed",
+          "title": "popping frenzy"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List from a: empty array",
+          "location": null,
+          "status": "passed",
+          "title": "from a: empty array"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List from a: null",
+          "location": null,
+          "status": "passed",
+          "title": "from a: null"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List from a: 2 element array",
+          "location": null,
+          "status": "passed",
+          "title": "from a: 2 element array"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List from a: 10 item array",
+          "location": null,
+          "status": "passed",
+          "title": "from a: 10 item array"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List to a: empty list",
+          "location": null,
+          "status": "passed",
+          "title": "to a: empty list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List to a: of 1 element list ",
+          "location": null,
+          "status": "passed",
+          "title": "to a: of 1 element list "
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List to a: of a 2 element list",
+          "location": null,
+          "status": "passed",
+          "title": "to a: of a 2 element list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List reverse 2 element list",
+          "location": null,
+          "status": "passed",
+          "title": "reverse 2 element list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List reverse 10 element list",
+          "location": null,
+          "status": "passed",
+          "title": "reverse 10 element list"
+        },
+        {
+          "ancestorTitles": ["Simple Linked List"],
+          "failureMessages": [],
+          "fullName": "Simple Linked List roundtrip 10 element array",
+          "location": null,
+          "status": "passed",
+          "title": "roundtrip 10 element array"
+        }
+      ],
+      "endTime": 1614824408801,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/05_Simple_Linked_List.test.js",
+      "startTime": 1614824407561,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Monday of March 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Monday of March 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Monday of april 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Monday of april 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Tuesday of may 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Tuesday of may 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Wednesday of june 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Wednesday of june 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Thursday of july 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Thursday of july 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Friday of august 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Friday of august 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Saturday of september 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Saturday of september 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test first Sunday of october 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test first Sunday of october 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Monday of november 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test second Monday of november 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Tuesday of december 2013",
+          "location": null,
+          "status": "passed",
+          "title": "test second Tuesday of december 2013"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Wednesday of january 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test second Wednesday of january 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Thursday of february 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test second Thursday of february 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Friday of march 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test second Friday of march 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Saturday of april 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test second Saturday of april 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test second Sunday of may 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test second Sunday of may 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Monday of june 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Monday of june 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Tuesday of july 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Tuesday of july 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Wednesday of august 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Wednesday of august 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Thursday of september 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Thursday of september 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Friday of october 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Friday of october 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Saturday of november 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Saturday of november 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test third Sunday of december 2014",
+          "location": null,
+          "status": "passed",
+          "title": "test third Sunday of december 2014"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Monday of january 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Monday of january 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Tuesday of february 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Tuesday of february 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Wednesday of march 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Wednesday of march 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Thursday of april 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Thursday of april 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Friday of may 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Friday of may 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Saturday of june 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Saturday of june 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fourth Sunday of july 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fourth Sunday of july 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Monday of august 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Monday of august 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Tuesday of september 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Tuesday of september 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Wednesday of october 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Wednesday of october 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Thursday of november 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Thursday of november 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Friday of december 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Friday of december 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Saturday of january 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Saturday of january 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Sunday of february 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Sunday of february 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test fifth Monday of february 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test fifth Monday of february 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Monday of march 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Monday of march 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Tuesday of april 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Tuesday of april 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Wednesday of may 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Wednesday of may 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Thursday of june 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Thursday of june 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Friday of july 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Friday of july 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Saturday of august 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Saturday of august 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Sunday of september 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test last Sunday of september 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test last Sunday of february 2015",
+          "location": null,
+          "status": "passed",
+          "title": "test last Sunday of february 2015"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Monday of october 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Monday of october 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Tuesday of november 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Tuesday of november 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Wednesday of december 2016",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Wednesday of december 2016"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Thursday of january 2017",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Thursday of january 2017"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Friday of february 2017",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Friday of february 2017"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Saturday of march 2017",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Saturday of march 2017"
+        },
+        {
+          "ancestorTitles": ["meetup()"],
+          "failureMessages": [],
+          "fullName": "meetup() test teenth Sunday of april 2017",
+          "location": null,
+          "status": "passed",
+          "title": "test teenth Sunday of april 2017"
+        }
+      ],
+      "endTime": 1614824408810,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/04_Meetups.test.js",
+      "startTime": 1614824407582,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": ["Robot Name"],
+          "failureMessages": [],
+          "fullName": "Robot Name has name",
+          "location": null,
+          "status": "passed",
+          "title": "has name"
+        },
+        {
+          "ancestorTitles": ["Robot Name"],
+          "failureMessages": [],
+          "fullName": "Robot Name name sticks",
+          "location": null,
+          "status": "passed",
+          "title": "name sticks"
+        },
+        {
+          "ancestorTitles": ["Robot Name"],
+          "failureMessages": [],
+          "fullName": "Robot Name different robots have different names",
+          "location": null,
+          "status": "passed",
+          "title": "different robots have different names"
+        },
+        {
+          "ancestorTitles": ["Robot Name"],
+          "failureMessages": [],
+          "fullName": "Robot Name different name when chosen name is taken",
+          "location": null,
+          "status": "passed",
+          "title": "different name when chosen name is taken"
+        },
+        {
+          "ancestorTitles": ["Robot Name"],
+          "failureMessages": [],
+          "fullName": "Robot Name reset name",
+          "location": null,
+          "status": "passed",
+          "title": "reset name"
+        }
+      ],
+      "endTime": 1614824409072,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/02_Robot_Name.test.js",
+      "startTime": 1614824408886,
+      "status": "passed",
+      "summary": ""
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "empty: returns true if the set contains no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet empty: returns true if the set contains no elements sets with no elements are empty",
+          "location": null,
+          "status": "passed",
+          "title": "sets with no elements are empty"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "empty: returns true if the set contains no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet empty: returns true if the set contains no elements sets with elements are not empty",
+          "location": null,
+          "status": "passed",
+          "title": "sets with elements are not empty"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "contains: sets can report if they contain an element"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet contains: sets can report if they contain an element nothing is contained in an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "nothing is contained in an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "contains: sets can report if they contain an element"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet contains: sets can report if they contain an element when the element is in the set",
+          "location": null,
+          "status": "passed",
+          "title": "when the element is in the set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "contains: sets can report if they contain an element"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet contains: sets can report if they contain an element when the element is not in the set",
+          "location": null,
+          "status": "passed",
+          "title": "when the element is not in the set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set empty set is a subset of another empty set",
+          "location": null,
+          "status": "passed",
+          "title": "empty set is a subset of another empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set empty set is a subset of non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "empty set is a subset of non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set non-empty set is not a subset of empty set",
+          "location": null,
+          "status": "passed",
+          "title": "non-empty set is not a subset of empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set set is a subset of set with exact same elements",
+          "location": null,
+          "status": "passed",
+          "title": "set is a subset of set with exact same elements"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set set is a subset of larger set with same elements",
+          "location": null,
+          "status": "passed",
+          "title": "set is a subset of larger set with same elements"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "subset: a set is a subset if all of its elements are contained in the other set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet subset: a set is a subset if all of its elements are contained in the other set set is not a subset of set that does not contain its elements",
+          "location": null,
+          "status": "passed",
+          "title": "set is not a subset of set that does not contain its elements"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "disjoint: sets are disjoint if they share no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet disjoint: sets are disjoint if they share no elements the empty set is disjoint with itself",
+          "location": null,
+          "status": "passed",
+          "title": "the empty set is disjoint with itself"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "disjoint: sets are disjoint if they share no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet disjoint: sets are disjoint if they share no elements empty set is disjoint with non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "empty set is disjoint with non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "disjoint: sets are disjoint if they share no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet disjoint: sets are disjoint if they share no elements non-empty set is disjoint with empty set",
+          "location": null,
+          "status": "passed",
+          "title": "non-empty set is disjoint with empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "disjoint: sets are disjoint if they share no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet disjoint: sets are disjoint if they share no elements sets are not disjoint if they share an element",
+          "location": null,
+          "status": "passed",
+          "title": "sets are not disjoint if they share an element"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "disjoint: sets are disjoint if they share no elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet disjoint: sets are disjoint if they share no elements sets are disjoint if they share no elements",
+          "location": null,
+          "status": "passed",
+          "title": "sets are disjoint if they share no elements"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "isSame: sets with the same elements are equal"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet isSame: sets with the same elements are equal empty sets are equal",
+          "location": null,
+          "status": "passed",
+          "title": "empty sets are equal"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "isSame: sets with the same elements are equal"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet isSame: sets with the same elements are equal empty set is not equal to non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "empty set is not equal to non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "isSame: sets with the same elements are equal"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet isSame: sets with the same elements are equal non-empty set is not equal to empty set",
+          "location": null,
+          "status": "passed",
+          "title": "non-empty set is not equal to empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "isSame: sets with the same elements are equal"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet isSame: sets with the same elements are equal sets with the same elements are equal",
+          "location": null,
+          "status": "passed",
+          "title": "sets with the same elements are equal"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "isSame: sets with the same elements are equal"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet isSame: sets with the same elements are equal sets with different elements are not equal",
+          "location": null,
+          "status": "passed",
+          "title": "sets with different elements are not equal"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "add: unique elements can be added to a set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet add: unique elements can be added to a set add to empty set",
+          "location": null,
+          "status": "passed",
+          "title": "add to empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "add: unique elements can be added to a set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet add: unique elements can be added to a set add to non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "add to non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "add: unique elements can be added to a set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet add: unique elements can be added to a set adding an existing element does not change the set",
+          "location": null,
+          "status": "passed",
+          "title": "adding an existing element does not change the set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "intersection: returns a set of all shared elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet intersection: returns a set of all shared elements intersection of two empty sets is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "intersection of two empty sets is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "intersection: returns a set of all shared elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet intersection: returns a set of all shared elements intersection of an empty set and non-empty set is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "intersection of an empty set and non-empty set is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "intersection: returns a set of all shared elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet intersection: returns a set of all shared elements intersection of a non-empty set and an empty set is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "intersection of a non-empty set and an empty set is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "intersection: returns a set of all shared elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet intersection: returns a set of all shared elements intersection of two sets with no shared elements is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "intersection of two sets with no shared elements is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "intersection: returns a set of all shared elements"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet intersection: returns a set of all shared elements intersection of two sets with shared elements is a set of the shared elements",
+          "location": null,
+          "status": "passed",
+          "title": "intersection of two sets with shared elements is a set of the shared elements"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "difference of a set is a set of all elements that are only in the first set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet difference of a set is a set of all elements that are only in the first set difference of two empty sets is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "difference of two empty sets is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "difference of a set is a set of all elements that are only in the first set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet difference of a set is a set of all elements that are only in the first set difference of empty set and non-empty set is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "difference of empty set and non-empty set is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "difference of a set is a set of all elements that are only in the first set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet difference of a set is a set of all elements that are only in the first set difference of a non-empty set and an empty set is the non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "difference of a non-empty set and an empty set is the non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "difference of a set is a set of all elements that are only in the first set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet difference of a set is a set of all elements that are only in the first set difference of two non-empty sets is a set of elements that are only in the first set",
+          "location": null,
+          "status": "passed",
+          "title": "difference of two non-empty sets is a set of elements that are only in the first set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "union: returns a set of all elements in either set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet union: returns a set of all elements in either set union of empty sets is an empty set",
+          "location": null,
+          "status": "passed",
+          "title": "union of empty sets is an empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "union: returns a set of all elements in either set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet union: returns a set of all elements in either set union of an empty set and non-empty set is the non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "union of an empty set and non-empty set is the non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "union: returns a set of all elements in either set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet union: returns a set of all elements in either set union of a non-empty set and empty set is the non-empty set",
+          "location": null,
+          "status": "passed",
+          "title": "union of a non-empty set and empty set is the non-empty set"
+        },
+        {
+          "ancestorTitles": [
+            "CustomSet",
+            "union: returns a set of all elements in either set"
+          ],
+          "failureMessages": [],
+          "fullName": "CustomSet union: returns a set of all elements in either set union of non-empty sets contains all unique elements",
+          "location": null,
+          "status": "passed",
+          "title": "union of non-empty sets contains all unique elements"
+        }
+      ],
+      "endTime": 1614824409204,
+      "message": "",
+      "name": "/home/sam/Projects/LaunchSchool/JS130/Exercises/JS130/JavaScript_Challenges/02_Medium/test/06_Custom_Set.test.js",
+      "startTime": 1614824408943,
+      "status": "passed",
+      "summary": ""
+    }
+  ],
+  "wasInterrupted": false
+}
